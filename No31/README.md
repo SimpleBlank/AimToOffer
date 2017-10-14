@@ -1,0 +1,1 @@
+MaxContinuousSubsequence：最大子序列，输出最大子序列的和以及对应的子序列，O(n)的解法，动态规划的思想
